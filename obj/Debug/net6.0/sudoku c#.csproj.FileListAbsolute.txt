@@ -1,0 +1,15 @@
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.csproj.AssemblyReference.cache
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.AssemblyInfoInputs.cache
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.AssemblyInfo.cs
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.csproj.CoreCompileInputs.cache
+C:\Users\eris.kociaj\Documents\sudoku c#\bin\Debug\net6.0\sudoku c#.exe
+C:\Users\eris.kociaj\Documents\sudoku c#\bin\Debug\net6.0\sudoku c#.deps.json
+C:\Users\eris.kociaj\Documents\sudoku c#\bin\Debug\net6.0\sudoku c#.runtimeconfig.json
+C:\Users\eris.kociaj\Documents\sudoku c#\bin\Debug\net6.0\sudoku c#.dll
+C:\Users\eris.kociaj\Documents\sudoku c#\bin\Debug\net6.0\sudoku c#.pdb
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.dll
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\refint\sudoku c#.dll
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.pdb
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\sudoku c#.genruntimeconfig.cache
+C:\Users\eris.kociaj\Documents\sudoku c#\obj\Debug\net6.0\ref\sudoku c#.dll
